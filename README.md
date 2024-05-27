@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Actively pursuing a degree in Software Technology<br>Passionate about learning new technologies and solving real-world problems with code<br>Eager to contribute to open-source projects and collaborate with other developers</p>
+<p align="left">Software Technology Student | Tech Enthusiast <br>Passionate about learning new technologies and solving real-world problems with code<br>Eager to contribute to open-source projects and collaborate with other developers</p>
 
 ###
 
